@@ -14,5 +14,7 @@ public class Main {
         } else {
             System.out.println("App crashed 💥 ...");
         }
+
+        // App Code Goes Here ...
     }
 }
